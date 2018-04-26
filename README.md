@@ -9,13 +9,9 @@ A demo using the R language Shiny web application framework to call a function i
 
 
 2.Pull & open project files locally in R Studio and download/install packages via ...  
-
    install.packages("algorithmia")  
-
    install.packages("ggplot2")  
-
    install.packages("ggfortify")  
-
    install.packages("zoo")  
 
 
